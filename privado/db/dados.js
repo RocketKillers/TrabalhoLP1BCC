@@ -37,6 +37,10 @@
       "cep": "21035-070"
     }
   ],
+
+  //adicionar categorias no banco de dados
+  "categorias": [],
+    
   "fornecedores": [
     {
       "id":"1",
@@ -166,6 +170,7 @@
       "codigo": "LED-050"
     }
   ],
+    
   //adicionar usuarios no banco de dadso
   "usuarios": []
 }
